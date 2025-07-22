@@ -27,13 +27,13 @@ A machine learning project that predicts a student’s exam score based on:
 
 ## 📁 Project Structure
 
-Score_Predictor/
-├── predictor.py # Custom ML model (from scratch)
-├── sklearn_model.py # Model using scikit-learn
-├── student_scores.csv # Sample dataset
-├── README.md # Project overview
+Score_Predictor/  
+├── predictor.py # Custom ML model (from scratch)  
+├── sklearn_model.py # Model using scikit-learn  
+├── student_scores.csv # Sample dataset  
+├── README.md # Project overview  
 
-Run the custom model : python predictor.py
+Run the custom model : python predictor.py  
 Run sklearn version : python sklearn_model.py
 
 
